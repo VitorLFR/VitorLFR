@@ -1,6 +1,6 @@
 ### Olá, eu sou o Vítor Lima Ferreira! 👋
 
-## Veja meu currículo no Linkedin e aprenda mais sobre mim:
+## Veja meu Linkedin e aprenda mais sobre mim:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vítor-lima-142653294)
 
